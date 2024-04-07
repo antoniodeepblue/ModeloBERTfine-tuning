@@ -1,5 +1,6 @@
 {
-  "_name_or_path": "dccuchile/bert-base-spanish-wwm-uncased",
+  "_name_or_path": "dccuchile/bert-base-spanish-wwm-uncased-finetuned-qa-mlqa",
+  
   "architectures": [
     "BertForQuestionAnswering"
   ],
